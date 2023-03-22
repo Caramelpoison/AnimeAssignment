@@ -1,0 +1,153 @@
+body.jokes{
+    text-align: center;
+    background-image: url(images/Jokes/gitty.jpg);
+    
+}
+body.quotes{
+    text-align: center;
+    background-color: sandybrown;
+    background-image: url(images/quotes/5231.webp);
+    
+}
+
+body.travel{
+    text-align: center;
+    background-image: url(images/Travel/mountain.jpg);
+    
+}
+
+.vertical {
+    border-left: 6px solid black;
+    height: 200px;
+    position:absolute;
+    left: 50%;
+}
+
+#ok{
+    font: bold;
+    font-size: 300%;
+    color:aliceblue;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2.blog{
+    font: bold;
+    font-size: 300%;
+    color:aliceblue;
+    text-decoration: underline;
+    text-align: center
+}
+
+p.blog{
+    color:aliceblue;
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Links{
+    display: flex;
+    justify-content: space-between;
+    font-family: fantasy;
+    font-size: 200%;
+    background-color: yellow;
+    text-decoration: none;
+}
+.Links:hover{
+    text-decoration: none;
+    background-color: palevioletred;
+
+
+}
+
+.List{
+    color:aliceblue;
+    font-family: monospace;
+    font-size: 150%;
+    text-align: center;
+}
+
+li:hover{
+    background-color: black;
+    font-size: 300%;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img:hover{
+    width: 35%;
+}
+
+
+    body.name {
+        background-color:Black;
+        background-image: url("giphy.gif");
+        font-size:200%;
+    
+    }
+    .name{
+        text-align: center;
+        font-family: 'Tangerine', serif;
+        color: gold;
+        text-transform: uppercase;
+        text-decoration-line: underline;
+        text-decoration-color: white;
+        text-decoration-style: wavy;
+    }
+    .name{
+        text-align: center;
+        color: forestgreen;
+    }
+    
+    p.name{
+        text-align: center;
+        color: azure;
+    }
+    
+    table.name{
+        margin-left: auto;
+        margin-right: auto;
+        border-style: ridge;
+        text-align: center;
+    }
+    th.name{
+        border-style: ridge;
+        color:darkgoldenrod
+    }
+    
+    tr.name{
+        border-style: ridge;
+        color:hotpink
+    }
+    #pic {
+        border-style: dotted;
+        border-color: pink;
+        border-width: auto;
+    }
+    
+    image.name{
+        border-style: dashed;
+        border-color: pink;
+    
+    }
+    
+#header{
+    font-size: 350%;
+    text-decoration: wavy;
+}
+
+.pstash {
+    text-align: center;
+    font-size: 200%;
+    background-color: aliceblue;
+}
+
+.travel{
+    background-color: black;
+    font-size: 150%;
+    font-family: fantasy;
+    color:aliceblue
+}
